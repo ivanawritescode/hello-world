@@ -1,2 +1,1 @@
-"Hello!"
-I really hate this.
+Hello!
